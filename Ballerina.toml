@@ -1,0 +1,9 @@
+[project]
+org-name= "ballerinax"
+version= "0.99.0"
+authors = ["Ballerina"]
+repository = "https://github.com/ballerina-platform/module-gmail"
+keywords = ["gmail","email"]
+license = ["Apache-2.0"]
+
+[dependencies]
