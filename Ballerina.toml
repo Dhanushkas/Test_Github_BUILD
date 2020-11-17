@@ -6,5 +6,4 @@ repository = "https://github.com/ballerina-platform/module-gmail"
 keywords = ["gmail","email"]
 license = ["Apache-2.0"]
 
-[dependencies]
-"ballerina/encoding" = "1.0.3"
+
